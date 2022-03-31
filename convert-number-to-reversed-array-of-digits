@@ -1,0 +1,28 @@
+https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript
+
+Convert number to reversed array of digits
+
+Instructions
+
+Convert number to reversed array of digits
+Given a random non-negative number, you have to return the digits of this number within an array in reverse order.
+
+solution: 
+
+function digitize(n) {
+//   //code here
+//   let arr = []
+//   for(let i = n; i <= n; i++){
+//     arr.reverse()
+//   }
+//   console.log(arr)
+//   return arr
+  const answer =[]
+  const str = n.toString()
+
+  for(item of str){
+    answer.unshift(parseInt(item))
+  }
+  console.log(answer)
+  return answer
+}
