@@ -26,3 +26,31 @@ function digitize(n) {
   console.log(answer)
   return answer
 }
+
+
+New Solution:
+
+function digitize(n) {
+//   //code here
+  let arr = []
+  let s = n.toString()
+  console.log(s)
+  for(let i = 0; i < s.length; i++){
+    console.log(s[i])
+    let digit = parseInt(s[i])
+   arr.push(digit)
+  }
+  console.log(arr)
+  arr.reverse()
+  console.log(arr)
+  return arr
+  }
+//   const answer =[]
+//   const str = n.toString()
+
+//   for(item of str){
+//     answer.unshift(parseInt(item))
+//   }
+//   console.log(answer)
+//   return answer
+// 
