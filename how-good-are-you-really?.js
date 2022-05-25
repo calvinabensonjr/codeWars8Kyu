@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript
+/* https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript
 
 How good are you really?
 
@@ -15,7 +15,7 @@ Note:
 Your points are not included in the array of your class's points. For calculating the average point you may add your point to the given array!
 
 Solution:
-
+*/
 function betterThanAverage(classPoints, yourPoints) {
   console.log(classPoints, yourPoints)
   
