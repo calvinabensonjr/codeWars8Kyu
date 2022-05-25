@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript
+/* https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript
 
 
 8 kyu
@@ -17,7 +17,7 @@ If you can, try writing it in only one line of code.
 
 
 Solution:
-
+*/
 //your code here
   //create a variable that takes in a value
   // then returns a list of its multiples, up to another value
