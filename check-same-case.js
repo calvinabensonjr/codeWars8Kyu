@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/train/javascript
+/* https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/train/javascript
 
 Instructions:
 
@@ -19,7 +19,7 @@ Examples
 '0' and '?' returns -1
 
 Solution:
-
+*/
 function sameCase(a, b){
   //first attempt, 4 passed, 4 failed
 //   if(a === b){
