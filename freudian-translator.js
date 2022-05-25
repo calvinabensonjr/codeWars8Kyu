@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5713bc89c82eff33c60009f7/train/javascript
+/* https://www.codewars.com/kata/5713bc89c82eff33c60009f7/train/javascript
 
 Instructions:
 
@@ -11,7 +11,7 @@ Now, basically, when a person hears about Freud, s/he hears "sex" because for Fr
 In this kata, the toFreud() function will take a string as its argument, and return a string with every word replaced by the explanation to everything, according to Freud. Note that an empty string, or no arguments, should result in the ouput being ""(empty string).
 
 Solution:
-
+*/
 function toFreud(string) {
 //   if(string !== "sex" || "sex sex sex sex" || "sex sex sex sex sex")
 // return string
