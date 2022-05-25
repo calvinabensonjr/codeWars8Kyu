@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/53af2b8861023f1d88000832/train/javascript
+/* https://www.codewars.com/kata/53af2b8861023f1d88000832/train/javascript
 
 Instructions
 
@@ -12,7 +12,7 @@ name + " does not play banjo"
 Names given are always valid strings.
 
 Solution:
-
+*/
 function areYouPlayingBanjo(name) {
 //   if(name.includes("r")){
 //   return name  + " " +  "plays banjo"
