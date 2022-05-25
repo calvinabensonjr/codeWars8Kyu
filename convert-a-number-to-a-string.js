@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript
+/* https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript
 
 
 8 kyu
@@ -17,7 +17,7 @@ Examples:
 
 
 Solution:
-
+*/
 function numberToString(num) {
 num = '67'
   return num
