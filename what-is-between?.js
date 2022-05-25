@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/javascript
+/* https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/javascript
 
 What is between?
 
@@ -14,6 +14,7 @@ b = 4
 --> [1, 2, 3, 4]
 
 Solutions:
+*/
 
 function between(a, b) {
   // loop? integers between a and b
