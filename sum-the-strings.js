@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript
+/* https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript
 
 
 
@@ -22,7 +22,7 @@ If either input is an empty string, consider it as zero.
 Inputs and the expected output will never exceed the signed 32-bit integer limit (2^31 - 1)
 
 Solution:
-
+*/
 function sumStr(a,b) {
   return Number(a)+Number(b)+'';
   //ask about Number & empty string
