@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript
+/* https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript
 
 Rock Paper Scissors!
 
@@ -15,7 +15,7 @@ rps('paper','paper') // Draw!
 
 
 Solution:
-
+*/
 const rps = (p1, p2) => {
   
   if(p1 === 'scissors' && p2 === 'paper' || p1 === 'rock' && p2 === 'scissors' || p1 === 'paper' && p2 === 'rock' ){
