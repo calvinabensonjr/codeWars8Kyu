@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript
+/* https://www.codewars.com/kata/50654ddff44f800200000007/train/javascript
 
 Instructions
 
@@ -14,7 +14,7 @@ For example: (Input1, Input2) --> output
 
 
 Solution:
-
+*/
 function solution(a, b){
   // your code here
   //the strings need to be returned together
