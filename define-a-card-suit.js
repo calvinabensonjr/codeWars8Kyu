@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5a360620f28b82a711000047/train/javascript
+/* https://www.codewars.com/kata/5a360620f28b82a711000047/train/javascript
 
 Define a card suit
 
@@ -16,7 +16,7 @@ Our deck (is preloaded):
 
 
 Solution:
-
+*/
 
 function defineSuit(card) {
   // good luck
