@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/javascript
+/* https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/javascript
 
 Reversed Words
 
@@ -11,7 +11,7 @@ Example:
 "The greatest victory is that which requires no battle" --> "battle no requires which that is victory greatest The"
 
 Solution:
-
+*/
 function reverseWords(str){
   
   return str.split(' ').reverse().join(' '); 
