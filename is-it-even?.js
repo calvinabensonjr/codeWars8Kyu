@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/javascript
+/* https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/javascript
 
 Is it even?
 
@@ -15,7 +15,7 @@ Numbers may be positive or negative, integers or floats.
 Floats with decimal part non equal to zero are considered UNeven for this kata.
 
 Solution:
-
+*/
 function testEven(n) {
     //Your awesome code here!
   //check if even
