@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/57f6ecdfcca6e045d2001207/train/javascript
+/* https://www.codewars.com/kata/57f6ecdfcca6e045d2001207/train/javascript
 
 Simple Comparison?
 
@@ -10,7 +10,7 @@ To make this challange harder and to promp the challenger to read up about coerc
 
 
 Solution:
-
+*/
 function add(a, b){
 	return a == b
 }
