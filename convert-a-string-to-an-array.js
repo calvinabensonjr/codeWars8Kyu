@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript
+/* https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript
 
 Convert a string to an array
 
@@ -12,7 +12,7 @@ Examples (Input -> Output):
 * "I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
 
 Solution:
-
+*/
 function stringToArray(string){
   let array = string.split(" ")
   return array
