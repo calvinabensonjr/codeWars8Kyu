@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/55a5befdf16499bffb00007b/train/javascript
+/* https://www.codewars.com/kata/55a5befdf16499bffb00007b/train/javascript
 
 
 Instructions:
@@ -24,7 +24,7 @@ Note: All math operations will be: a (operation) b
 
 
 Solution:
-
+*/
 function add(a,b){
   let sum = a + b
     return sum
