@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
+/* https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
 
 Quarter of the year
 
@@ -10,7 +10,7 @@ For example: month 2 (February), is part of the first quarter; month 6 (June), i
 
 
 Solution:
-
+*/
 
 const quarterOf = (month) => {
   // Your code here
