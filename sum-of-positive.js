@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript
+/* https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript
 
 Sum of positive
 
@@ -11,7 +11,7 @@ Example [1,-4,7,12] => 1 + 7 + 12 = 20
 Note: if there is nothing to sum, the sum is default to 0.
 
 Solution:
-
+*/
 function positiveSum(arr) {
 //   if(arr % 2 === 0){
 //     return sum
