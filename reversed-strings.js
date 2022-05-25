@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript
+/* https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript
 
 Reversed Strings
 
@@ -10,7 +10,7 @@ Complete the solution so that it reverses the string passed into it.
 'word'   =>  'drow'
 
 Solution:
-
+*/
 function solution(str){
 //   let answer = str.toString()
 //   console.log(answer)
