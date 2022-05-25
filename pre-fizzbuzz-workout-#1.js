@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/569e09850a8e371ab200000b/train/javascript
+/* https://www.codewars.com/kata/569e09850a8e371ab200000b/train/javascript
 
 Pre-FizzBuzz Workout #1
 
@@ -14,7 +14,7 @@ Your job is to write an algorithm that gets you from the input to the output.
 
 
 Solution:
-
+*/
 function preFizz(n) {
   for(let i = 1; i<n.length;i++){
     console.log(n.length)
