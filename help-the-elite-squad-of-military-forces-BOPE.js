@@ -40,3 +40,4 @@ magNumber = info => Math.ceil(info[1] * 3/ {'PT92' : 17, 'M4A1' : 30, 'M16A2' : 
   //modulus?
   //divide?
   // object
+
