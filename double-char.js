@@ -25,4 +25,3 @@ Good Luck!
    return str.split("").map((letter) => `${letter}${letter}`).join("");
 }
 
-
