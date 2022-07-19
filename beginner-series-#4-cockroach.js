@@ -18,4 +18,5 @@ function cockroachSpeed(s) {
 
 //   console.log(Math.floor(s*27.778))
   return Math.floor(s*27.778)
+  console.log(Math.floor(s*27.778))
 }
