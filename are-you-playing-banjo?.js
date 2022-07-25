@@ -11,7 +11,7 @@ name + " plays banjo"
 name + " does not play banjo"
 Names given are always valid strings.
 
-Solution:
+Solutions:
 */
 function areYouPlayingBanjo(name) {
 //   if(name.includes("r")){
@@ -29,3 +29,14 @@ function areYouPlayingBanjo(name) {
   }
 }
 
+or
+
+function areYouPlayingBanjo(name) {
+  console.log(name[0])
+  if(name[0] === 'R' || name[0] === 'r'){
+    return `${name} plays banjo`
+  }else{
+    return `${name} does not play banjo`
+  }
+//   return name;
+}
